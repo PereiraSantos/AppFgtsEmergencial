@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fgts Emergencial</string>
+    <string name="cpf">Cpf</string>
+    <string name="datanascimento">Data Nascimento</string>
+    <string name="salvar">Salvar</string>
+    <string name="Sair">Sair</string>
+    <string name="datapagamento">Data Pagamento</string>
+    <string name="FGTS">FGTS</string>
+    <string name="Saque">Saque</string>
+    <string name="primeiraparcela">Primeira Parcela</string>
+    <string name="segundaparcela">Segunda Parcela</string>
+    <string name="terceiraparcela">Terceira Parcela</string>
+    <string name="Parcelas">Parcelas</string>
+</resources>
