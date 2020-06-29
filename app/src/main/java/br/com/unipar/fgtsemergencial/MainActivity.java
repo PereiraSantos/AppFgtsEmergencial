@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         if(cpfText.getText().toString().equals("")){
             menssage("Campo Cpf Vazio!");
         }
-        if(dataNascimentoText.getText().toString().equals("")){
+        else if(dataNascimentoText.getText().toString().equals("")){
             menssage("Campo data Nascimento esta Vazio!");
         }
        else {
